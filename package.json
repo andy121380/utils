@@ -1,9 +1,9 @@
 {
-  "name": "@zstings/utils",
+  "name": "@andy121380/utils",
   "uname": "utils",
   "version": "0.5.4",
   "license": "MIT",
-  "author": "@zstings",
+  "author": "@andy121380",
   "files": [
     "dist"
   ],
@@ -50,10 +50,10 @@
     "vite": "^3.2.4",
     "vitepress": "1.0.0-alpha.30"
   },
-  "homepage": "https://github.com/zstings/utils#readme",
+  "homepage": "https://github.com/andy121380/utils#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zstings/utils.git"
+    "url": "git+https://github.com/andy121380/utils.git"
   },
   "publishConfig": {
     "access": "public",
